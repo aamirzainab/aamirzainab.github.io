@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-Demo homepage
+Work in progress
 
