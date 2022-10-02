@@ -19,5 +19,5 @@ I have two very cute doggos I miss everyday back home in Pakistan.
 
 Oreo![Oreo](/images/Oreo.JPG "Oreo" )
 
-Cookie![Cookie](/images/Oreo.JPG "Cookie")
+Cookie![Cookie](/images/cookie.jpg "Cookie")
 
