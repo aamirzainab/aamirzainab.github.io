@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+{% include base_path %} 
 
 # Currently, I am:
 Working under Professor Dongyoon Lee for my PhD at Stony Brook University. 
