@@ -3,8 +3,8 @@ main:
   - title: "Research"
     url: /research/  
         
-  - title: "CV"
-    url: /cv/
+  - title: "Resume"
+    url: /raw/master/files/Resume.pdf
     
   - title: "About Me"
     url: /about/
