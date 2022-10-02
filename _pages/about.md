@@ -4,7 +4,7 @@ title: "About me"
 permalink: /about/
 author_profile: true
 redirect_from: 
-  - /about/
+
 ---
 
 # Currently, I am:
