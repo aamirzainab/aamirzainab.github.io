@@ -1,14 +1,21 @@
 ---
 permalink: /
-title: "Home"
-excerpt: "Home"
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi! 
-I am a second year PhD in Computer Science at Stony Brook University, advised by [Prof. Dongyoon Lee](https://www3.cs.stonybrook.edu/~dongyoon/). My areas of interest are broadly software and system security. I completed my undergraduate from Lahore University of Management Sciences in Lahore, Pakistan.
-You can contact me via email at aamirzainab
+# Currently, I am:
+Working under Professor Dongyoon Lee for my PhD at Stony Brook University. 
+You can find my resume [here]([url](https://aamirzainab.github.io/files/Resume.pdf))
+
+# Fun Facts
+I am the president of the [Graduate Women in Science and Engineering]([url](https://sbugwise.wordpress.com)) society at Stony Brook University. 
+I have two very cute doggos I miss everyday back home in Pakistan. 
+Oreo:
+
+Cookie:
 
