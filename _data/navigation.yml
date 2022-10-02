@@ -4,7 +4,7 @@ main:
     url: /research/  
         
   - title: "Resume"
-    url: /raw/master/files/Resume.pdf
+    url: /files/Resume.pdf
     
   - title: "About Me"
     url: /about/
