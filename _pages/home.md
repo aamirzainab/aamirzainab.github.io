@@ -5,7 +5,6 @@ excerpt: "Home"
 author_profile: true
 redirect_from: 
   - /index.html
-  - /home.html
 ---
 
 Hi! 
