@@ -10,6 +10,6 @@ main:
     url: /files/Resume.pdf
     
   - title: "About Me"
-    url: /pages/about.md
+    url: /_pages/about
      
     
