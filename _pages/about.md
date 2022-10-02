@@ -15,6 +15,6 @@ You can find my resume [here]([url](https://aamirzainab.github.io/files/Resume.p
 # Fun Facts
 I am the president of the [Graduate Women in Science and Engineering]([url](https://sbugwise.wordpress.com)) society at Stony Brook University. 
 I have two very cute doggos I miss everyday back home in Pakistan. 
-Oreo![Editing a markdown file for a talk](/images/Oreo.png "Oreo")
-Cookie![Editing a markdown file for a talk](/images/Oreo.png "Oreo")
+Oreo![Editing a markdown file for a talk](/images/Oreo.JPG "Oreo")
+Cookie![Editing a markdown file for a talk](/images/Oreo.JPG "Oreo")
 
