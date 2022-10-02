@@ -9,7 +9,7 @@ redirect_from:
 
 # Currently, I am:
 Working under Professor Dongyoon Lee for my PhD at Stony Brook University. 
-You can find my resume [here]([url](https://aamirzainab.github.io/files/Resume.pdf))
+You can find my resume [here](https://aamirzainab.github.io/files/Resume.pdf)
 
 # Fun Facts
 I am the president of the [Graduate Women in Science and Engineering]([url](https://sbugwise.wordpress.com)) society at Stony Brook University. 
