@@ -1,15 +1,15 @@
-# main links 
+# main links
 main:
   - title: "Home"
     url: /
-    
+
   - title: "Research"
-    url: /research/  
-        
+    url: /research/
+
   - title: "Resume"
-    url: /files/Resume.pdf
-    
+    url: /files/cv/Resume.pdf
+
   - title: "About Me"
     url: /about/
-     
-    
+
+
