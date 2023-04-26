@@ -1,0 +1,115 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Medium Length Professional CV
+% LaTeX Template
+% Version 2.0 (8/5/13)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Trey Hunner (http://www.treyhunner.com/)
+%
+% Important note:
+% This template requires the resume.cls file to be in the same directory as the
+% .tex file. The resume.cls file provides the resume style used for structuring the
+% document.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass{resume} % Use the custom resume.cls style
+
+\usepackage[left=0.75in,top=0.6in,right=0.75in,bottom=0.6in]{geometry} % Document margins
+\usepackage{hyperref}
+
+\name{Zainab Aamir} % Your name
+\address{\\ \email zaamir@cs.stonybrook.edu \\ \href{https://aamirzainab.github.io}{aamirzainab.github.io}}
+\begin{document}
+
+%	EDUCATION SECTION
+
+\begin{rSection}{Education}
+
+{\bf Stony Brook University, New York} \hfill {\em August 2021 - Present } \\ 
+PhD in Computer Science \\
+Graduate Courses : Operating Systems, Compiler Design, Data Science, Fundamentals of Computer Networks \\
+Overall GPA: 3.7
+
+{\bf Lahore University of Management Sciences, Pakistan} \hfill {\em August 2017 - May 2021 } \\ 
+BSc (Honours) in Computer Science \\
+Overall GPA: 3.5
+
+\end{rSection}
+
+%	WORK EXPERIENCE SECTION
+
+\begin{rSection}{Experience}
+
+\begin{rSubsection}{Stony Brook University}{August 2021 - Present}{Research Assistant }{Stony Brook, New York}
+\item Working under Professor Dongyoon Lee, under the broad area of software and system security and programming languages
+% \item Researching regular expression denial of service(ReDOS) security vulnerability and redesigning regular expressions engines 
+\end{rSubsection}
+
+\begin{rSubsection}{Grey Matter Global Consultancy }{January 2020 - May 2020}{Application Developer }{Pakistan}
+\item Designing and developing a web application for automated college counselling using React JS 
+% \item Designing the interface for the application and based on the user, hosted a real-time database using Firebase
+\end{rSubsection}
+%------------------------------------------------
+\end{rSection}
+\begin{rSection}{Publications}
+Hassan, \textbf{Aamir}, Lee, Davis, and Servant. \emph{Improving Developers’ Understanding of Regex Denial of Service Tools through Anti-Patterns and Fix Strategies.} Proceedings of the 44th IEEE Symposium on Security and Privacy \textbf{(IEEE S\&P'23)}
+\end{rSection}
+%	PROJECT SECTION
+
+\begin{rSection}{Projects}
+
+\begin{rSubsection}{Linux Stackable File System}{February 2022 - May 2022}{}{}
+\item Modified the linux kernel source code to implement a stackable file system in order to support recycling bin functionalities in Linux  
+% - delete, recover, delete permanently
+\item Multi-threaded operations to allow for concurrent use by multiple users with different permissions
+\end{rSubsection}
+\begin{rSubsection}{Web Page Rendering Enhancement }{August 2021 - December 2021}{}{}
+\item Implemented a rendering engine to enhance a webpage for larger screen sizes
+\item Fed individual extracted DOM attributes of a webpage to Unity in order to scale them up proportionally for viewing on a 3x2 monitor setup (5120 x 1440 - 48”)
+\end{rSubsection}
+\begin{rSubsection}{Encrypted Smartphone Network Traffic Analysis}{February 2021 - May 2021}{}{}
+\item Implemented deep learning techniques to analyze side-channel data of smartphone network traffic
+\item Extracted fingerprints of smartphone applications from the network traffic were fed to the deep learning model to identify the application
+\end{rSubsection}
+\end{rSection}
+\newpage
+
+\begin{rSection}{Awards}
+\begin{rSubsection}
+{ACM CCS Student Conference Grant}{\$1100}{}{}
+\end{rSubsection}
+\end{rSection}
+\begin{rSection}{Teaching Experience}
+\begin{rSubsection}
+{Teaching Assistant-Fundamentals of Computer Networks (CSE 534) }{August 2022 - Present}{Taught by Professor Aruna Balasubramanian }{Stony Brook,New York}
+\end{rSubsection}
+\begin{rSubsection}{Computer Science and Informatics Summer Research Experience}{May 2022 - August 2022}{Mentor}{Stony Brook,New York}
+\item Mentored two high school students for three months on conducting research on regular expressions extracted from the SNORT database, studying their  characteristics and potential ReDOS vulnerabilities
+\end{rSubsection}
+\begin{rSubsection}
+{Teaching Assistant - Systems Fundamentals(CSE 220) }{January 2022 - June 2022}{Taught by Professor Joydeep Mitra}{Stony Brook,New York}
+\end{rSubsection}
+\begin{rSubsection}
+{Teaching Assistant - Databases(CS 340)}{ August 2020 - December 2020}{Taught by Professor Naveed Arshad}{Lahore, Pakistan}
+\end{rSubsection}
+\end{rSection}
+%	TECHNICAL STRENGTHS SECTION
+% \begin{rSection}{Technical Strengths}
+% \begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
+% Programming Languages & Python, Javascript, Java, C++, C, C\# \\
+% Databases & MySQL, PostgreSQL, Microsoft SQL \\
+% Systems & Linux, Windows
+% \end{tabular}
+
+% \end{rSection}
+
+
+\end{document}
