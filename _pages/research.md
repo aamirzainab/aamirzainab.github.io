@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 
 ---
-I'm currently working on designing and engineering scalable visualization frameworks for immersive facilities, while also exploring how applications of Augmented Reality in situated visualizations.
+I'm currently working on designing and engineering scalable visualization frameworks for immersive facilities and exploring applications of Augmented Reality in situated and scientific visualizations.
 
 **December 2024**: Our paper on Leveraging LLMS for Understanding User Behavior and Interactions in XR Applications got accepted in IEEE TVCG. Stay tuned for the presentation in IEEE VR 2025!\\
 **November 2024**: I passed my Research Proficiency Exam!\\
