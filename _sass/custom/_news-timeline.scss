@@ -1,50 +1,22 @@
 :root{
-  --fg: #3b4252;        /* softer text */
-  --muted: #6b7280;     /* lighter muted */
-  --card: #ffffff;      /* white cards */
-  --line: #f3f4f6;      /* very light borders */
-  --accent: #2563eb;    /* blue-600 */
-  --accent-weak: #eff6ff; /* pale blue */
-}
-
-/* Dark mode respect */
-@media (prefers-color-scheme: dark) {
-  :root{
-    --fg: #e5e7eb;
-    --muted: #94a3b8;
-    --card: #111827;
-    --line: #1f2937;
-    --accent: #60a5fa;
-    --accent-weak: #0b1220;
-  }
+  --fg: #3b4252;
+  --muted: #6b7280;
+  --card: #ffffff;
+  --line: #f3f4f6;
+  --accent: #2563eb;
+  --accent-weak: #eff6ff;
 }
 
 .timeline{ position: relative; padding-left: 22px; margin-top: 10px; }
 .timeline::before{ content:""; position:absolute; left: 8px; top: 0; bottom: 0; width: 2px; background: var(--line); }
 
-.t-item{ position: relative; margin: 0 0 18px 0; padding-left: 6px; }
-.t-item::before{
-  content:""; position:absolute; left: -15px; top: 6px; width: 12px; height: 12px; border-radius: 50%;
-  background: var(--accent); box-shadow: 0 0 0 4px var(--accent-weak);
-}
-
-.t-date{ font-size: 0.85rem; font-weight: 600; color: var(--muted); }
-
 .t-card{
   margin-top: 6px; background: var(--card); border: 1px solid var(--line);
-  border-radius: 14px; padding: 14px 16px; box-shadow: 0 8px 30px rgba(2,6,23,.08);
+  border-radius: 14px; padding: 14px 16px;
+  box-shadow: 0 2px 6px rgba(0,0,0,.04); /* lighter shadow */
 }
-
-.t-title{ margin: 0 0 6px 0; font-weight: 700; }
-
-.t-meta{ display:flex; flex-wrap: wrap; gap: 8px; margin-top: 8px; font-size: .9rem; color: var(--muted); }
-
-.t-badge{
-  display:inline-block; padding: 4px 10px; border-radius: 999px;
-  background: var(--accent-weak); color: var(--accent); font-weight: 600; font-size: .78rem;
-  border: 1px solid var(--line);
-}
-
-.t-links{ margin-top: 8px; display:flex; flex-wrap:wrap; gap:10px; }
-.t-link{ text-decoration: none; font-weight: 600; color: var(--accent); border-bottom: 1px dashed var(--accent); }
-.t-link:hover{ border-bottom-style: solid; }
+.timeline .t-title{ color: var(--fg); }
+.timeline p{ color: var(--fg); }
+.t-meta{ color: var(--muted); }
+.t-badge{ background: var(--accent-weak); color: var(--accent); }
+.t-link{ color: var(--accent); }
