@@ -1,11 +1,11 @@
 :root{
   --bg: #ffffff;
-  --fg: #0f172a;        /* slate-900 */
-  --muted: #475569;     /* slate-600 */
-  --card: #f8fafc;      /* slate-50 */
-  --line: #e2e8f0;      /* slate-200 */
-  --accent: #3b82f6;    /* blue-500 */
-  --accent-weak: #dbeafe; /* blue-100 */
+  --fg: #334155;        /* slate-700 instead of slate-900 */
+  --muted: #64748b;     /* slate-500 instead of slate-600 */
+  --card: #ffffff;      /* pure white, matches rest of site */
+  --line: #f1f5f9;      /* slate-100 instead of slate-200 */
+  --accent: #2563eb;    /* blue-600 (slightly softer than 500) */
+  --accent-weak: #eff6ff; /* very pale blue background */
 }
 
 /* Dark mode respect */
