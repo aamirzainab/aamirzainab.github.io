@@ -15,7 +15,9 @@ My research has been published at venues such as IEEE VR, IEEE VIS and IEEE TVCG
 
 You can reach me at my [professional email](mailto:zaamir@cs.stonybrook.edu) or my [personal email](mailto:aamirzainab@yahoo.com).
 
-## News
+{% include news_timeline.html %}
+
+<!-- ## News
 
 - **Sep 2025** — Poster accepted at *IEEE VIS 2025* on **Agentic AI for visualization design**, how AI-driven agents can support visual analytics workflows.
 
@@ -25,4 +27,4 @@ You can reach me at my [professional email](mailto:zaamir@cs.stonybrook.edu) or 
 
 - **Mar 2025** — Our **FlexiCAVE facility** was [featured in Stony Brook University News](https://news.stonybrook.edu/newsroom/press-release/general/stony-brook-university-unveils-worlds-largest-foldable-video-display-wall-the-flexicave/) as *“the world’s largest foldable video display wall,”* highlighting its impact on immersive analytics and visualization research.
 
-See more on my [Research page](/research/).
+See more on my [Research page](/research/). -->
