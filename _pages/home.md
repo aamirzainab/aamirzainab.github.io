@@ -30,7 +30,7 @@ You can reach me at my [professional email](mailto:zaamir@cs.stonybrook.edu) or 
   <article class="t-item">
     <div class="t-date">March 2025</div>
     <div class="t-card">
-      <h3 class="t-title">Explainable XR presented at <span class="t-badge">IEEE ISMAR 2025</span> — published in <span class="t-badge">IEEE TVCG</span></h3>
+      <h3 class="t-title">Explainable XR presented at <span class="t-badge">IEEE VR 2025</span> — published in <span class="t-badge">IEEE TVCG</span></h3>
       <p>Introduces an LLM-assisted framework for interpreting user behaviors in immersive XR environments.</p>
       <div class="t-meta">
         <span>📚 Paper at TVCG</span>
@@ -43,7 +43,7 @@ You can reach me at my [professional email](mailto:zaamir@cs.stonybrook.edu) or 
     <div class="t-date">Jul 2025</div>
     <div class="t-card">
       <h3 class="t-title">Patent submitted!</h3>
-      <p>Filed on adaptive immersive visualization facilities patent.</p>
+      <p>Filed on adaptive immersive visualization facility patent.</p>
       <div class="t-meta">
         <span>💡 Patent</span>
       </div>
@@ -51,13 +51,11 @@ You can reach me at my [professional email](mailto:zaamir@cs.stonybrook.edu) or 
   </article>
 
   <article class="t-item">
-    <div class="t-date">Mar 2025</div>
+    <div class="t-date">June 2025</div>
     <div class="t-card">
       <h3 class="t-title">FlexiCAVE featured in Stony Brook University News</h3>
-      <p>Covered as “the world’s largest foldable video display wall,” highlighting impact on immersive analytics and visualization research.</p>
       <div class="t-meta">
         <span>📰 Media</span>
-        ·
         <a class="t-link" href="https://news.stonybrook.edu/newsroom/press-release/general/stony-brook-university-unveils-worlds-largest-foldable-video-display-wall-the-flexicave/" target="_blank" rel="noopener">Press release</a>
       </div>
     </div>
