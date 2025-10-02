@@ -53,13 +53,17 @@ Feel free to reach out to me on my [professional email](mailto:zaamir@cs.stonybr
   <article class="t-item">
     <div class="t-date">June 2025</div>
     <div class="t-card">
-      <h3 class="t-title">FlexiCAVE featured in Stony Brook University News!</h3>
+      <h3 class="t-title">
+        <a href="https://news.stonybrook.edu/newsroom/press-release/general/stony-brook-university-unveils-worlds-largest-foldable-video-display-wall-the-flexicave/" target="_blank" rel="noopener">
+          FlexiCAVE featured in Stony Brook University News!
+        </a>
+      </h3>
       <div class="t-meta">
         <span>📰 Media</span>
-        <a class="t-link" href="https://news.stonybrook.edu/newsroom/press-release/general/stony-brook-university-unveils-worlds-largest-foldable-video-display-wall-the-flexicave/" target="_blank" rel="noopener">Press release</a>
       </div>
     </div>
   </article>
+
 
 
 
