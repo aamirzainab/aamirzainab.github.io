@@ -1,7 +1,7 @@
 :root{
   --fg: #3b4252;
   --muted: #6b7280;
-  --card: #ffffff;
+  --card: #f9fafb;
   --line: #f3f4f6;
   --accent: #3b82f6;
   --accent-weak: #eff6ff;
@@ -11,7 +11,7 @@
 .timeline::before{ content:""; position:absolute; left: 8px; top: 0; bottom: 0; width: 2px; background: var(--line); }
 
 .t-card{
-  margin-top: 6px; background: var(--card); border: 1px solid var(--line);
+  margin-top: 2px; background: var(--card); border: 1px solid var(--line);
   border-radius: 14px; padding: 8px 10px;
   box-shadow: 0 2px 6px rgba(0,0,0,.04);
 }
