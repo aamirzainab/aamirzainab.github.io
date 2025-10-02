@@ -7,14 +7,17 @@ redirect_from:
 
 ---
 
-I am the president of the [Graduate Women in Science and Engineering] society and Treasuer of [Women in PhD in Computer Science] at Stony Brook University!
 
-I have two very cute doggos!
+I am the president of the [Graduate Women in Science and Engineering] society and Treasurer of [Women in PhD in Computer Science] at Stony Brook University!
 
-<p float="left">
-  <img src="/images/Oreo.JPG" alt="Oreo" title="Oreo" width="250" />
-  <img src="/images/Cookie.jpg" alt="Cookie" title="Cookie" width="250" />
-</p>
+I have two very cute doggos, I miss every day back home in Pakistan.
+
+**Oreo**
+<img src="/images/Oreo.JPG" alt="Oreo" title="Oreo" width="250" height="250" />
+
+**Cookie**
+<img src="/images/Cookie.jpg" alt="Cookie" title="Cookie" width="250" height="250" />
+
 
 <!-- Oreo![Oreo](/images/Oreo.JPG "Oreo" )
 
