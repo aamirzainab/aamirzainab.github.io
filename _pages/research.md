@@ -47,6 +47,9 @@ My research lies at the intersection of Immersive Visualization, HCI, and AI. I 
 
 ## News & Milestones
 
+- **Sep 2025** — Agentic AI poster accepted at IEEE VIS 2025. [Poster](/files/Agentic_VIS_Challenge_Workshop.pdf)
+- **Jul 2025** — Submitted a patent on adaptive immersive visualization facilities.
+- **Jun 2025** — FlexiCAVE featured in Stony Brook University News. [Press Release](https://news.stonybrook.edu/newsroom/press-release/general/stony-brook-university-unveils-worlds-largest-foldable-video-display-wall-the-flexicave/)
 **December 2024**: Our paper on Leveraging LLMS for Understanding User Behavior and Interactions in XR Applications got accepted in IEEE TVCG. Stay tuned for the presentation in IEEE VR 2025!\\
 **November 2024**: I passed my Research Proficiency Exam!\\
 **May 2024**: I switched labs, working under [Arie Kaufman](https://www.cs.stonybrook.edu/people/faculty/ariekaufman) now!\\

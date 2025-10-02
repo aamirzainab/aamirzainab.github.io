@@ -9,17 +9,17 @@ author_profile: true
 Hi!
 I am a Computer Science Ph.D. Candidate at Stony Brook University, advised by Prof. Arie Kaufman in the Center for Visual Computing.
 
-My research focuses on Extended Reality (XR), Human-Computer Interaction (HCI), and Immersive Analytics. I design and evaluate large-scale visualization systems, developing AI- and LLM-assisted analytics frameworks, interactive visualization tools, and user-centered XR interfaces. My goal is to make immersive environments more adaptive, explainable, and data-driven.
+My research focuses on Extended Reality (XR), Human-Computer Interaction (HCI), and Immersive Analytics. I design and evaluate large-scale visualization systems, developing AI and LLM-assisted analytics frameworks, interactive visualization tools, and user-centered XR interfaces. My goal is to make immersive environments more adaptive, explainable, and data-driven.
 
 My research has been published at venues such as IEEE VR, IEEE VIS and IEEE TVCG. Please refer to my [Research page](/research/).
 
-You can reach me at my [professional email](mailto:zaamir@cs.stonybrook.edu) or my [personal email](mailto:aamirzainab@yahoo.com).
+Feel free to reach out to me on my [professional email](mailto:zaamir@cs.stonybrook.edu) or my [personal email](mailto:aamirzainab@yahoo.com).
 
   <article class="t-item">
     <div class="t-date">Sep 2025</div>
     <div class="t-card">
       <h3 class="t-title">Poster accepted at <span class="t-badge">IEEE VIS 2025</span></h3>
-      <p>Agentic AI for visualization design — demonstrating how AI-driven agents support visual analytics workflows.</p>
+      <p>Developed an AI agent that analyzes the VIS publications dataset and generates visualizations.</p>
       <div class="t-meta">
         <span>📄 Poster at IEEE VIS</span>
       </div>
