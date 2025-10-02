@@ -17,7 +17,7 @@ Alongside systems design, I explore applications of AR for situated visualizatio
     <p>Demonstrates how AI-driven agents can support visual analytics workflows in immersive environments.</p>
     <div class="t-meta">
       <span>📄 Poster at IEEE VIS 2025</span>
-      <a class="t-link" href="/files/VIS2025Poster.pdf" target="_blank">Poster</a>
+      <a class="t-link" href="/files/AgenticAI.pdf" target="_blank">Poster</a>
     </div>
   </div>
 </article>
@@ -25,12 +25,12 @@ Alongside systems design, I explore applications of AR for situated visualizatio
 <article class="t-item">
   <div class="t-date">2025</div>
   <div class="t-card">
-    <h3 class="t-title">Explainable XR with LLMs</h3>
-    <p>Introduces an LLM-assisted framework for interpreting user behavior and interactions in XR applications.</p>
+    <h3 class="t-title">Explainable XR: Understanding User Behaviors of XR Environments using LLM-assisted Analytics Framework</h3>
+    <p>Presents an LLM-assisted framework for interpreting user behavior and interactions in XR applications, published in IEEE TVCG and presented at IEEE VR 2025.</p>
     <div class="t-meta">
-      <span>📚 Published in IEEE TVCG</span>
-      <a class="t-link" href="https://arxiv.org/abs/xxxx.xxxxx" target="_blank">arXiv</a> ·
-      <a class="t-link" href="/files/TVCG2025.pdf" target="_blank">PDF</a>
+      <span>📚 IEEE TVCG 2025</span>
+      <a class="t-link" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10919202" target="_blank">Paper</a> ·
+      <a class="t-link" href="https://www.youtube.com/watch?v=b3l2IQAwANg" target="_blank">Video</a>
     </div>
   </div>
 </article>
@@ -38,15 +38,15 @@ Alongside systems design, I explore applications of AR for situated visualizatio
 <article class="t-item">
   <div class="t-date">2023</div>
   <div class="t-card">
-    <h3 class="t-title">Secure Multiparty Computation & Privacy</h3>
-    <p>Our paper on privacy-preserving protocols was accepted at IEEE S&P 2023.</p>
+    <h3 class="t-title">Improving Developers’ Understanding of Regex Denial of Service Tools through Anti-Patterns and Fix Strategies</h3>
+    <p>Examines how developers interact with Regex DoS detection and mitigation tools, highlighting anti-patterns and effective fix strategies. Published in IEEE S&P 2023.</p>
     <div class="t-meta">
       <span>📚 IEEE S&P 2023</span>
-      <a class="t-link" href="https://arxiv.org/pdf/2212.07979.pdf" target="_blank">PDF</a>
+      <a class="t-link" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10179442" target="_blank">Paper</a> ·
+      <a class="t-link" href="https://www.youtube.com/watch?v=It8QodA2zd8" target="_blank">Presentation</a>
     </div>
   </div>
 </article>
-
 
 
 **December 2024**: Our paper on Leveraging LLMS for Understanding User Behavior and Interactions in XR Applications got accepted in IEEE TVCG. Stay tuned for the presentation in IEEE VR 2025!\\
