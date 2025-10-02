@@ -7,18 +7,18 @@ redirect_from:
 
 ---
 
-# Currently, I am:
-Working under Professor Arie Kaufman for my PhD at Stony Brook University.
-You can find my resume [here](https://aamirzainab.github.io/files/cv/Resume.pdf)
+I am the president of the [Graduate Women in Science and Engineering] society and Treasuer of [Women in PhD in Computer Science] at Stony Brook University!
 
-# Fun Facts
-I am the president of the [Graduate Women in Science and Engineering] society at Stony Brook University!
+I have two very cute doggos!
 
-I have two very cute doggos I miss everyday back home in Pakistan.
+<p float="left">
+  <img src="/images/Oreo.JPG" alt="Oreo" title="Oreo" width="250" />
+  <img src="/images/Cookie.jpg" alt="Cookie" title="Cookie" width="250" />
+</p>
 
-Oreo![Oreo](/images/Oreo.JPG "Oreo" )
+<!-- Oreo![Oreo](/images/Oreo.JPG "Oreo" )
 
-Cookie![Cookie](/images/Cookie.jpg "Cookie")
+Cookie![Cookie](/images/Cookie.jpg "Cookie") -->
 
 [Graduate Women in Science and Engineering]:https://sbugwise.wordpress.com
-
+[Women in PhD in Computer Science]:https://wphd.cs.stonybrook.edu
