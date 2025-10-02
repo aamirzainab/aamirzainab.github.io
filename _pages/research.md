@@ -5,8 +5,7 @@ permalink: /research/
 author_profile: true
 
 ---
-My research lies at the intersection of Immersive Visualization, HCI, and AI. I aim to design scalable visualization frameworks that extend the capabilities of reconfigurable display facilities and XR environments. A central focus of my work is integrating LLM- and agent-driven intelligence to better model and support user behavior, making immersive analytics adaptive, explainable, and collaborative.
-Alongside systems design, I explore applications of AR for situated visualization, bringing data insights directly into the environments where they matter most. This combination of systems and user-centered evaluation drives my broader goal: making immersive analytics a practical tool for both scientific discovery and real-world decision-making!
+My research lies at the intersection of Immersive Visualization, HCI, and AI. I aim to design scalable visualization frameworks that extend the capabilities of reconfigurable display facilities and XR environments. A central focus of my work is integrating AI- driven intelligence to better model and support user behavior, making immersive analytics adaptive, explainable, and collaborative. Alongside systems design, I explore applications of AR for situated visualization, bringing data insights directly into the environments where they matter most.
 
 ## Publications & Featured Projects
 
@@ -16,7 +15,7 @@ Alongside systems design, I explore applications of AR for situated visualizatio
     <h3 class="t-title">Agentic AI for Visualization Design</h3>
     <p>Demonstrates how AI-driven agents can support visual analytics workflows in immersive environments.</p>
     <div class="t-meta">
-      <span>📄 Poster at IEEE VIS 2025</span>
+      <span>📄 Poster at IEEE VIS</span>
       <a class="t-link" href="/files/AgenticAI.pdf" target="_blank">Poster</a>
     </div>
   </div>
@@ -26,11 +25,11 @@ Alongside systems design, I explore applications of AR for situated visualizatio
   <div class="t-date">2025</div>
   <div class="t-card">
     <h3 class="t-title">Explainable XR: Understanding User Behaviors of XR Environments using LLM-assisted Analytics Framework</h3>
-    <p>Presents an LLM-assisted framework for interpreting user behavior and interactions in XR applications, published in IEEE TVCG and presented at IEEE VR 2025.</p>
+    <p>Presents an LLM-assisted framework for interpreting user behavior and interactions in XR applications.</p>
     <div class="t-meta">
-      <span>📚 IEEE TVCG 2025</span>
+      <span>📚 IEEE TVCG, IEEE VR </span>
       <a class="t-link" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10919202" target="_blank">Paper</a> ·
-      <a class="t-link" href="https://www.youtube.com/watch?v=b3l2IQAwANg" target="_blank">Video</a>
+      <a class="t-link" href="https://www.youtube.com/watch?v=b3l2IQAwANg" target="_blank">Presentation</a>
     </div>
   </div>
 </article>
@@ -41,7 +40,7 @@ Alongside systems design, I explore applications of AR for situated visualizatio
     <h3 class="t-title">Improving Developers’ Understanding of Regex Denial of Service Tools through Anti-Patterns and Fix Strategies</h3>
     <p>Examines how developers interact with Regex DoS detection and mitigation tools, highlighting anti-patterns and effective fix strategies. Published in IEEE S&P 2023.</p>
     <div class="t-meta">
-      <span>📚 IEEE S&P 2023</span>
+      <span>📚 IEEE S&P</span>
       <a class="t-link" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10179442" target="_blank">Paper</a> ·
       <a class="t-link" href="https://www.youtube.com/watch?v=It8QodA2zd8" target="_blank">Presentation</a>
     </div>
