@@ -10,7 +10,7 @@ redirect_from:
 
 I am the president of the [Graduate Women in Science and Engineering] society and Treasurer of [Women in PhD in Computer Science] at Stony Brook University!
 
-I have two very cute doggos, I miss every day back home in Pakistan.
+I have two very cute doggos, they're back home in Pakistan and I miss them everyday!
 
 **Oreo **
 <img src="/images/Oreo.JPG" alt="Oreo" title="Oreo" width="250" height="250" style="vertical-align: middle; margin-right: 20px;" />
