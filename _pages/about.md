@@ -15,13 +15,16 @@ I have two very cute doggos, they're back home in Pakistan and I miss them every
 <div style="display: flex; align-items: center; gap: 20px;">
   <div>
     <strong>Oreo</strong><br>
-    <img src="/images/Oreo.JPG" alt="Oreo" width="250" height="250" />
+    <img src="/images/Oreo.JPG" alt="Oreo"
+         style="width: 250px; height: 250px; object-fit: cover;" />
   </div>
   <div>
     <strong>Cookie</strong><br>
-    <img src="/images/Cookie.jpg" alt="Cookie" width="250" height="250" />
+    <img src="/images/Cookie.jpg" alt="Cookie"
+         style="width: 250px; height: 250px; object-fit: cover;" />
   </div>
 </div>
+
 
 
 <!-- Oreo![Oreo](/images/Oreo.JPG "Oreo" )
