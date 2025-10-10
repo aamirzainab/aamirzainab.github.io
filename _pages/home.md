@@ -33,7 +33,7 @@ Feel free to reach out to me on my [professional email](mailto:zaamir@cs.stonybr
       <h3 class="t-title">Explainable XR presented at <span class="t-badge">IEEE VR 2025</span> — published in <span class="t-badge">IEEE TVCG</span></h3>
       <p>Introduces an LLM-assisted framework for interpreting user behaviors in immersive XR environments.</p>
       <div class="t-meta">
-        <span>📚 Paper at TVCG</span>
+        <span>📚 Paper at IEEE TVCG</span>
       </div>
     </div>
   </article>
