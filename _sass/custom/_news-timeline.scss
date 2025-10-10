@@ -11,10 +11,16 @@
 .timeline::before{ content:""; position:absolute; left: 8px; top: 0; bottom: 0; width: 2px; background: var(--line); }
 
 .t-card{
-  margin-top: 2px; background: var(--card); border: 1px solid var(--line);
-  border-radius: 14px; padding: 8px 10px;
+  margin-top: 0px; background: var(--card); border: 1px solid var(--line);
+  border-radius: 10px; padding: 8px 10px;
   box-shadow: 0 2px 6px rgba(0,0,0,.04);
 }
+.t-title {
+  color: var(--fg);
+  margin-top: 0;     /* remove extra padding above title */
+  margin-bottom: 4px; /* optional, small gap below */
+}
+
 .timeline .t-title{ color: var(--fg); }
 .timeline p{ color: var(--fg); }
 .t-meta{ color: var(--muted); }
