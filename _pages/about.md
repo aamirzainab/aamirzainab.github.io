@@ -13,11 +13,10 @@ I am the president of the [Graduate Women in Science and Engineering] society an
 I have two very cute doggos, I miss every day back home in Pakistan.
 
 **Oreo**
-<img src="/images/Oreo.JPG" alt="Oreo" title="Oreo" width="250" height="250" />
+<img src="/images/Oreo.JPG" alt="Oreo" title="Oreo" width="250" height="250" style="vertical-align: middle; margin-right: 20px;" />
 
 **Cookie**
-<img src="/images/Cookie.jpg" alt="Cookie" title="Cookie" width="250" height="250" />
-
+<img src="/images/Cookie.jpg" alt="Cookie" title="Cookie" width="250" height="250" style="vertical-align: middle;" />
 
 <!-- Oreo![Oreo](/images/Oreo.JPG "Oreo" )
 
