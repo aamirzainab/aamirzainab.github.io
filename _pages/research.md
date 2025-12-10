@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 
 ---
-My research lies at the intersection of Immersive Visualization, HCI, and AI. I aim to design scalable visualization frameworks that support a wide range of immersive environments—from large-scale display facilities to XR platforms. A central focus of my work is integrating AI-driven intelligence to better model and understand user behavior, making immersive analytics more adaptive, explainable, and collaborative. I also explore applications of AR for situated visualization, bringing data insights directly into the environments where they matter most.
+My research lies at the intersection of Immersive Visualization, HCI, and AI. I aim to design scalable visualization frameworks that support a wide range of immersive environments—from large-scale display facilities to XR platforms. A central focus of my work is integrating AI-driven methods to better model and understand user behavior, making immersive analytics more adaptive, explainable, and collaborative. I also explore applications of AR for situated visualization, bringing data insights directly into the environments where they matter most.
 
 ## Publications & Featured Projects
 
