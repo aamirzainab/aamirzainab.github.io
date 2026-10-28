@@ -13,7 +13,31 @@ My research focuses on Extended Reality (XR), Human-Computer Interaction (HCI), 
 
 My research has been published at venues such as IEEE VR, IEEE VIS and IEEE TVCG. Please refer to my [Research page](/research/).
 
+I am currently a Multimodal Generative AI Research Intern at GE Vernova, and previously interned as a Machine Learning Engineer on Core Ads Ranking at Reddit. See my [Experience page](/experience/).
+
 Feel free to reach out to me on my [professional email](mailto:zaamir@cs.stonybrook.edu) or my [personal email](mailto:aamirzainab@yahoo.com).
+
+  <article class="t-item">
+    <div class="t-date">Aug 2026</div>
+    <div class="t-card">
+      <h3 class="t-title">Joined <span class="t-badge">GE Vernova</span> as a Multimodal Generative AI Research Intern</h3>
+      <p>Building multimodal generative models for wind turbine VR simulation and agentic workflows for power grid analysis.</p>
+      <div class="t-meta">
+        <span>💼 Internship</span>
+      </div>
+    </div>
+  </article>
+
+  <article class="t-item">
+    <div class="t-date">May 2026</div>
+    <div class="t-card">
+      <h3 class="t-title">Joined <span class="t-badge">Reddit</span> as a Machine Learning Engineering Intern</h3>
+      <p>Worked on Core Ads Ranking, improving the purchase-conversion model's PRAUC and calibration.</p>
+      <div class="t-meta">
+        <span>💼 Internship</span>
+      </div>
+    </div>
+  </article>
 
   <article class="t-item">
     <div class="t-date">Sep 2025</div>

@@ -6,8 +6,11 @@ main:
   - title: "Research"
     url: /research/
 
+  - title: "Experience"
+    url: /experience/
+
   - title: "Resume"
-    url: /files/cv/ResumeFG.pdf
+    url: /files/cv/Resume_FG.pdf
 
   - title: "About Me"
     url: /about/
